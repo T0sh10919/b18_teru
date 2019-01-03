@@ -27,8 +27,8 @@ from PIL import ImageOps
 
 
 width, height = 128, 74
-hidden = 4096
-epoch_num = 200
+hidden = 2048
+epoch_num = 100
 batchsize = 128
 gpu_id = 0
 
